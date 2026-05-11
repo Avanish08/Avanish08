@@ -39,46 +39,7 @@ I work on:
 
 ---
 
-# 🕹️ Featured Projects
 
-## 🎮 Project 1 – Horror Survival Game
-
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=1000&auto=format&fit=crop" width="700" alt="Horror Game"/>
-</p>
-
-### Features
-- Advanced enemy AI
-- Dynamic lighting system
-- Inventory management
-- First-person gameplay
-
-### Tech Used
-- Unity Engine
-- C#
-- Blender
-- NavMesh AI
-
----
-
-## 🚗 Project 2 – Racing Simulator
-
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1503376780353-7e6692767b70?q=80&w=1000&auto=format&fit=crop" width="700" alt="Racing Game"/>
-</p>
-
-### Features
-- Realistic car physics
-- Multiplayer mode
-- Nitro boost system
-- Weather effects
-
-### Tech Used
-- Unreal Engine
-- Blueprint System
-- C++
-
----
 
 # 📈 GitHub Stats
 
@@ -106,17 +67,14 @@ I work on:
 # 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Avanish08">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://linkedin.com/in/YOUR_PROFILE">
+  <a href="https://linkedin.com/in/avanishojha08">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://youtube.com/@YOUR_CHANNEL">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -124,7 +82,7 @@ I work on:
 # 🔥 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=Avanish08&style=for-the-badge&color=blue" />
 </p>
 
 ---
