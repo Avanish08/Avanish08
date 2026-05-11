@@ -2,7 +2,7 @@
 ### Game Developer | AI Enthusiast | Indie Creator
 
 <p align="center">
-  <img src="[https://i0.wp.com/media1.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif](https://i0.wp.com/media1.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif)&w=1200&auto=format&fit=crop" width="800" alt="Game Development Banner"/>
+  <img src="https://i0.wp.com/media1.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="800" alt="Game Development Banner"/>
 </p>
 
 ---
