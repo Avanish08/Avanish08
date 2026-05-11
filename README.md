@@ -1,5 +1,5 @@
 # 🎮 Hi, I'm Avanish Ojha
-### Game Developer | AI Enthusiast | Indie Creator
+### Game Developer | Animator | Indie Creator
 
 <p align="center">
   <img src="https://i0.wp.com/media1.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="400" alt="Game Development Banner"/>
